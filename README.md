@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development and C# Windows Presentation Foundation (WPF)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-  Linked In: www.linkedin.com/in/nicholas-kostas-a8964076 
 
 <!---
 VampCode/VampCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
